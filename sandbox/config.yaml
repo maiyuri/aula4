@@ -1,0 +1,14 @@
+output_path: 
+- C:\\Users\\Maiyuri\\Documents\\trabalho python\\BibtexDataQuality\\output
+output_ext:
+- json
+file_name:
+- output
+filter_field:
+- year
+search_value:
+- "2021"
+search_operator:
+- '=='
+content_type:
+- Courses
